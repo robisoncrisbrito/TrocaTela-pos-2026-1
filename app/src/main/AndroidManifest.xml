@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TrocaTela">
         <activity
+            android:name=".ListarActivity"
+            android:exported="false" />
+        <activity
             android:name=".ConfirmarActivity"
             android:exported="false" />
         <activity
